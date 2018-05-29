@@ -1,1 +1,1 @@
-Só adicinando anotacao para testar.
+Só adicinando anotacao para testar. Teste para ver se a linha de comando vai funcionar com colaborate.
